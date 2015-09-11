@@ -1,0 +1,23 @@
+﻿@using System.Web.Mvc.Html
+@using System.Web.UI.WebControls
+@model CustomOwinAuthentication.Models.LoginViewModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@using (Html.BeginForm("Login", "Authentication", FormMethod.Post))
+{
+<h2>Login</h2>
+<table>
+    <tr>
+        <td>@Html.LabelFor(x => x.UserName)</td>
+        <td>@Html.TextBoxFor(x => x.UserName)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(x => x.Password)</td>
+        <td>@Html.TextBoxFor(x => x.Password)</td>
+    </tr>
+    <tr><td colspan="2"><button type="submit">Login</button></td></tr>
+</table>
+}

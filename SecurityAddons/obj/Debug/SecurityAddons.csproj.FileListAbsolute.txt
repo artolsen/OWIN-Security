@@ -1,0 +1,7 @@
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\bin\Debug\SecurityAddons.dll
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\bin\Debug\SecurityAddons.pdb
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\obj\Debug\SecurityAddons.csprojResolveAssemblyReference.cache
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\obj\Debug\SecurityAddons.dll
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\obj\Debug\SecurityAddons.pdb
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\artol\documents\visual studio 2013\Projects\CustomOwinAuthentication\SecurityAddons\bin\Debug\Microsoft.AspNet.Identity.Core.xml
